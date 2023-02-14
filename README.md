@@ -30,3 +30,21 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
+
+## Table of Contents
+-[Installation](#installation)
+-[Usage](#usage)
+-[Credits](#credits)
+-[License](#license)
+
+## Installation
+In order to run this  application, the user must install the required node packages. This is done by typing "npm install" in the terminal. The user must then type 'npm start' in the terminal to begin.
+
+## Usage
+Heroku Deployment:
+
+## Credits
+N/A
+
+## License
+MIT License

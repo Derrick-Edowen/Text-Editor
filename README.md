@@ -1,4 +1,4 @@
-# Text Editor Starter Code
+# Text Editor
 
 ## Description
 AS A developer
@@ -38,13 +38,14 @@ THEN I should have proper build scripts for a webpack application
 -[License](#license)
 
 ## Installation
-In order to run this  application, the user must install the required node packages. This is done by typing "npm install" in the terminal. The user must then type 'npm start' in the terminal to begin.
+In order to run this  application, the user must install the required node packages. This is done by typing npm install in the terminal. User must then "npm run build && cd server && node server.js".
 
 ## Usage
+[Application Screenshot](./App%20screen.PNG)
 Heroku Deployment:
 
 ## Credits
 N/A
 
 ## License
-MIT License
+N/A

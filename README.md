@@ -42,7 +42,7 @@ In order to run this  application, the user must install the required node packa
 
 ## Usage
 [Application Screenshot](./App%20screen.PNG)
-Heroku Deployment:
+Heroku Deployment: https://arcane-bastion-17633.herokuapp.com/
 
 ## Credits
 N/A
